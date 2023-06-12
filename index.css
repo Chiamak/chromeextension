@@ -1,0 +1,72 @@
+body{
+    max-width: 400px;
+    min-width: 300px;
+  }
+  .App {
+    background-color: navajowhite;
+    margin: 0 auto;
+    padding:5px;
+    text-align: center;
+    font-family: poppins;
+  }
+  .App .div1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .div1 img{
+    width:2rem;
+    height:2rem;
+    padding:0px 5px;
+  }
+  .App input{
+    border-radius: 5px;
+    color: brown;
+    padding: 3px;
+  }
+  .App button{
+    all:unset;
+    border-radius: 5px;
+   padding:3px;
+    background-color: brown;
+    font-size: small;
+    color: white;
+    font-family: poppins;
+  }
+  .div2{
+    margin:1vh 0;
+    padding:3px;
+    width: 90%;
+  }
+  .div2 h1{
+    text-align:center;
+    font-family: gemunu libre;
+  }
+  .div2 h2{
+    text-align:center;
+    font-size: smaller;
+    font-style: italic;
+    color: gray;
+    line-height: 0px;
+  }
+  .div2 ul, ol{
+    all:unset;
+    list-style-type: none;
+    text-align: left;
+    color: navy;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  #pos1, #ex1{
+    color:black;
+    font-size: larger;
+  }
+  .div2 p{
+    width: 100%;
+    text-align: left;
+  }
+  .div2 p li{
+    color: black;
+    width: 100%;
+    padding:1vh auto;
+  }
+  

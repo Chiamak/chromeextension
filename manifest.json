@@ -1,0 +1,16 @@
+{
+    "short_name": "M-WordFind",
+    "name": "M-WordFind",
+    "description": "A Chrome extension to change the background color created by Major-codegeek",
+    "icons": {
+      "16": "bird.png",
+      "48": "bird.png",
+      "128": "bird.png"
+    },
+    "manifest_version": 3,
+    "version": "1.0.0",
+    "action": {
+      "default_popup": "index.html",
+      "default_title": "M-WordFind"
+    }
+  }
